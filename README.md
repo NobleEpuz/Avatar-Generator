@@ -1,4 +1,4 @@
 The avatar generator is somewhat similar to Telegram
 
-Installation:
+Compile:
 `pip install -r requirements.txt`
